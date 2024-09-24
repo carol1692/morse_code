@@ -1,0 +1,37 @@
+.cat{
+    width: 600px;
+    max-height: 350px;
+}
+
+.josefin-slab-title {
+    font-family: "Josefin Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.textarea-input{
+    height: 150px;
+    width:50vw; 
+}
+
+.submit_btn{
+    width: 25vw;
+}
+
+.wrapper{
+    text-align: center;
+}
+.form-label {
+    display: none;
+}
+
+.flashes{
+    color: red;
+}
+
+.align-navbar{
+    margin-top: 1vh;
+    margin-left: 73vw;
+}
+
