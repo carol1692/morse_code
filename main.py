@@ -3,6 +3,9 @@ from flask_bootstrap import Bootstrap5
 from form import MorseForm
 from flask_wtf.csrf import CSRFProtect
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 bootstrap = Bootstrap5(app)
